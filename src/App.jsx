@@ -1,5 +1,10 @@
 import { useState, useEffect, useRef } from "react";
 
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3577514437376917"
+     crossorigin="anonymous"></script>
+
 const LEVELS = [
   { emojis: "🦁 👑", answer: ["the lion king", "lion king"], hint: "Hakuna Matata!" },
   { emojis: "🌹 🚢 💔", answer: ["titanic"], hint: "I'll never let go..." },
